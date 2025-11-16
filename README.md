@@ -1,6 +1,9 @@
 # ChatLumen  
 ✨ A Kotlin-based Android chatbot application powered by the Gemini 2.0 Flash model.
-
+https://github.com/ghostrider-cloudd/ChatLumen/blob/main/screen1.jpeg
+https://github.com/ghostrider-cloudd/ChatLumen/blob/main/screen2.jpeg
+https://github.com/ghostrider-cloudd/ChatLumen/blob/main/screen3.jpeg
+https://github.com/ghostrider-cloudd/ChatLumen/blob/main/screen4.jpeg
 ---
 
 ## 🚀 Overview  
